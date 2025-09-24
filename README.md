@@ -1,4 +1,4 @@
-This is a hex edited version of aBadAvatar/BadUpdate to work off of Memory Unit's! You'd need a 256MB or 512MB for it to work and must plug it into the first slot as I have shown in releases. Apparently the Memory Unit calls are hard coded per port (Mu0 and Mu1)
+This is a hex edited version of aBadAvatar/BadUpdate to work off of Memory Unit's! You'd need a 256MB or 512MB for it to work and must plug it into the first slot as I have shown in releases. Apparently the Memory Unit calls are hard coded per port (Mu0 and Mu1). Please put your dashboards on your HDD's or elsewhere. Aurora took up over 300MB's with its daya from cover arts and such.
 
 
 # Below is the aBadAvatar README
