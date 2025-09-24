@@ -1,3 +1,8 @@
+This is a hex edited version of aBadAvatar/BadUpdate to work off of Memory Unit's! You'd need a 256MB or 512MB for it to work and must plug it into the first slot as I have shown in releases. Apparently the Memory Unit calls are hard coded per port (Mu0 and Mu1)
+
+
+# Below is the aBadAvatar README
+
 A real README will come shortly, but until then:
 - Ensure your console has the Avatar update data. If you don't have an HDD, you may need to install the official offline System Update 17559 on a formatted USB. **Don't use LIVE to update, just in case Microsoft decides to patch this.**
 - No xex is included. You'll need to put an xex that does what you wish in the BadUpdatePayload folder (odds are, this is XeUnshackle or FreeMyXe)
