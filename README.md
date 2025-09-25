@@ -2,6 +2,8 @@ This is a hex edited version of aBadAvatar/BadUpdate to work off of Memory Unit'
 
 PLEASE GO TO RELEASES DONT DOWNLOAD THE MASTER BRANCH, I'LL TRY TO MAKE THIS COMPILE STAGES 2-4!! I GOT STAGE 2 JUST NOT STAGE 3 TO PROPERLY COMPILE YET.
 
+# Ramblings
+
 It appears it's a multistep compile. You have to compile ObjLink.exe properly then do the rest. I'm just not sure where to go from there. Stage 3 was never filled out in detail in grimdoomer's base reporitory for BadUpdate.
 
 # Below is the aBadAvatar README
