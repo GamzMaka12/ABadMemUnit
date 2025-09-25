@@ -4,7 +4,7 @@ PLEASE GO TO RELEASES DONT DOWNLOAD THE MASTER BRANCH, I'LL TRY TO MAKE THIS COM
 
 # Ramblings
 
-It appears it's a multistep compile. You have to compile ObjLink.exe properly then do the rest. I'm just not sure where to go from there. Stage 3 was never filled out in detail in grimdoomer's base reporitory for BadUpdate.
+It appears it's a multistep compile. You have to compile ObjLink.exe properly then do the rest. I'm just not sure where to go from there. Stage 3 was never filled out in detail in grimdoomer's base repository for BadUpdate.
 
 # Below is the aBadAvatar README
 
