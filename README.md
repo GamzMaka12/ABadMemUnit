@@ -1,6 +1,8 @@
 This is a hex edited version of aBadAvatar/BadUpdate to work off of Memory Unit's! You'd need a 256MB or 512MB for it to work and must plug it into the first slot as I have shown in releases. Apparently the Memory Unit calls are hard coded per port (Mu0 and Mu1). Please put your dashboards on your HDD's or elsewhere. Aurora took up over 300MB's with its data from cover arts and such.
 
-PLEASE GO TO RELEASES DONT DOWNLOAD THE MASTER BRANCH, I'LL TRY TO MAKE THIS COMPILE STAGES 2-4!! I GOT STAGE 2 JUST NOT STAGE 3 TO PROPERLY COMPILE YET
+PLEASE GO TO RELEASES DONT DOWNLOAD THE MASTER BRANCH, I'LL TRY TO MAKE THIS COMPILE STAGES 2-4!! I GOT STAGE 2 JUST NOT STAGE 3 TO PROPERLY COMPILE YET.
+
+It appears it's a multistep compile. You have to compile ObjLink.exe properly then do the rest. I'm just not sure where to go from there. Stage 3 was never filled out in detail in grimdoomer's base reporitory for BadUpdate.
 
 # Below is the aBadAvatar README
 
